@@ -61,7 +61,7 @@ Availability:
 1. Up Time
 2. SLAs
 
-&#x20;![](.gitbook/assets/image.png)
+&#x20;![](<.gitbook/assets/image (3).png>)
 
 For the system uptime, it can be 99.9%, 99.99%.
 
